@@ -17,8 +17,17 @@ Commercial
 * ERTLab Studio (Geostudi Astier)
 
 
-There is what we have in mind for processing:
-* 
-* @anivorlis 
+Software and/or tooling for pre- and post- processing of resistivity and IP data
+Full waveform
+* Aarhus Workbench
+* pyBert
+* scientific scripts (Olsson et al, Rossi et al, Naveed et al)
+Statistical metrics
+* ?
+Gated decay curves
+* Aarhus Workbench
+* scientific scripts (Rossi et al, Nivorlis et al)
+Monitoring Data
+* scientific scripts (Nivorlis et al)
 
 
