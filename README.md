@@ -6,9 +6,11 @@ Open-Source
 * pyGIMLi / pyBERT (Rücker, Günther, Wagner): pygimli.org
 * SimPEG (Cockett, Kang, Heagy)
 * resipy (G. Blanchy)
+* E4D (T. Johnson)
 Freeware
 * AarhusInv
-Secret
+* ZondRes2D/3D
+Potentially accessible through developers
 * DC2D Pro ( J.H. Kim)
 * EEMVerter (Fiandaca et al.)
 Commercial
